@@ -4,8 +4,7 @@ Hi! I'm a CS grad focused on web development. My skillset includes TypeScript, V
 
 Interested in what I've built? Let's connect:
 
-* **Website:** [sharif.sircar.com](sharif.sircar.com)
-* **GitHub:** https://github.com/Sharif-SS
+* **Discover My Portfolio:** [sharif.sircar.com](sharif.sircar.com)
 
 <!--
 **Sharif-SS/Sharif-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
