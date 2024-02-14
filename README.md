@@ -5,7 +5,7 @@ Hi! I'm a CS graduate specializing in web development. My tech stack includes Ty
 Interested in what I've built? Let's connect:
 
 * **Discover My Portfolio:** [sharif.sircar.com](https://www.sharif-sircar.com/)
-* **Find Me on LinkedIn:** [[Profile URL](https://www.linkedin.com/in/sharif-sircar/)] 
+* **Find Me on LinkedIn:** [[To LinkedIn!](https://www.linkedin.com/in/sharif-sircar/)] 
 
 <!--
 **Sharif-SS/Sharif-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
