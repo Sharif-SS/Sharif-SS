@@ -1,4 +1,4 @@
-# Sharif Sircar | Software Developer
+# Sharif Sircar | Software Developer | Photographer
 
 Hi! I'm a CS graduate specializing in web development. My tech stack includes TypeScript, Vue 3, NodeJS, Express, and CMS systems.
 
