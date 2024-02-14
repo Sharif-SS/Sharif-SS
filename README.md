@@ -1,10 +1,11 @@
-# Sharif Sircar | Software Developer 
+# Sharif Sircar | Software Developer
 
-Hi! I'm a CS grad focused on web development. My skillset includes TypeScript, Vue 3, NodeJS, Express, and CMS experience.  
+Hi! I'm a CS graduate specializing in web development. My tech stack includes TypeScript, Vue 3, NodeJS, Express, and CMS systems.
 
 Interested in what I've built? Let's connect:
 
-* **Discover My Portfolio:** [sharif.sircar.com](sharif.sircar.com)
+* **Discover My Portfolio:** [sharif.sircar.com](https://www.sharif-sircar.com/)
+* **Find Me on LinkedIn:** [[Profile URL](https://www.linkedin.com/in/sharif-sircar/)] 
 
 <!--
 **Sharif-SS/Sharif-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
